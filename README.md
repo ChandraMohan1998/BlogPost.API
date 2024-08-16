@@ -8,6 +8,6 @@ Key Features:
 4. Search and Filtering: Developed search functionality and advanced filtering options for users to find relevant blog posts easily.
 5. Security: Implemented robust security measures, including token-based authentication, to protect user information.
 
-# Technologies Used: C#, .NET, SQL, JWT for authentication.
+ Technologies Used: C#, .NET, SQL, JWT for authentication.
 
 # BlogPost UI (API's Integration) - InProgress
