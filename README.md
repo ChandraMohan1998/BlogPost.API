@@ -1,6 +1,6 @@
 # BlogPost API Development
 
-Overview: Developing a robust API for a BlogPost website to support various features including user management, content creation, and real-time comments.
+Overview: Developing a robust API for a BlogPost website to support various features including user management, content creation.
 
 Key Features:
 1. User Management: Created endpoints for user registration, login, and profile management.
